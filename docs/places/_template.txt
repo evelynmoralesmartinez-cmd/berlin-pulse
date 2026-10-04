@@ -1,6 +1,5 @@
 # TEMPLATE – detailed information about ONE place. Copy this file and rename it, e.g. reichstag.txt
-# PLANTILLA – información detallada sobre UN lugar. Copia este archivo y renómbralo, por ejemplo reichstag.txt
-# Use the SAME place name as in places.csv. / Usa el MISMO nombre que en places.csv.
+# Use the SAME place name as in places.csv.
 
 [Place name] – history: [Main historical story of this place.]
 

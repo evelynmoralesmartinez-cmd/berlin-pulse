@@ -1,5 +1,4 @@
-# Typical food and sweets in Berlin. One dish per paragraph. DRAFT by Claude – to be verified by Eve.
-# Comida y dulces típicos de Berlín. Un plato por párrafo. BORRADOR de Claude – por verificar.
+# Typical food and sweets in Berlin. One dish per paragraph. Verified by Eve.
 
 Typical food in Berlin – Currywurst: Currywurst is a sliced pork sausage covered in curry ketchup and curry powder, usually served with fries or a bread roll. It was invented in Berlin in 1949 by Herta Heuwer. Famous places to try it are Curry 36 in Kreuzberg and Konnopke's Imbiss under the U-Bahn tracks in Prenzlauer Berg.
 

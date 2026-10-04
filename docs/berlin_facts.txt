@@ -1,5 +1,4 @@
 # Basic facts about Berlin. One fact per paragraph. Verified by Eve.
-# Datos básicos de Berlín. Un dato por párrafo. Verificados por Eve.
 
 Berlin is the capital of Germany and also one of its 16 federal states.
 

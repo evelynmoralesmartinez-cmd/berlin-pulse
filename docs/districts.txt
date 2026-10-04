@@ -1,5 +1,4 @@
 # One place of interest per district. One district per paragraph. Verified by Eve.
-# Un lugar por distrito. Un distrito por párrafo. Verificado por Eve.
 
 Berlin has 12 districts (Bezirke). Each district has its own character and places of interest.
 
