@@ -48,3 +48,13 @@ main sights with a chat that answers questions using a curated knowledge base an
 
 In Google Maps, right-click on a place → the first line shows the coordinates
 (for example `52.5163, 13.3777`). The first number is `lat`, the second is `lon`.
+
+---
+
+## Screenshots
+
+![Berlin Pulse – screenshot 1](screenshots/berlin-pulse-01.png)
+
+![Berlin Pulse – screenshot 2](screenshots/berlin-pulse-02.png)
+
+![Berlin Pulse – screenshot 3](screenshots/berlin-pulse-03.png)
